@@ -28,6 +28,7 @@ MIT
 ## Authors 
   
 Thanks for checking out our  beginner workflow with GitHub, Terminal and Sublime Text. 
+
 by Natasha Adler and Emily Morgan 
   
 ![This is a Picture of Natasha Adler](natasha_headshot_medium.jpg "Natasha Adler") 
